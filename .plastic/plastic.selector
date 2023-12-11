@@ -1,0 +1,4 @@
+repository "QUByteChallenge@TDonSoft@cloud"
+  path "/"
+    br "/main"
+    co "/main"
